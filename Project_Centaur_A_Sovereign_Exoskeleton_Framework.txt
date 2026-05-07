@@ -1,0 +1,25 @@
+# Project Centaur: A Real-time Feedback Framework for Human-AI Kinetic Coupling
+
+## Executive Summary
+Project Centaur explores a novel architecture for human-machine interaction: the **Sovereign AI Exoskeleton**. Unlike traditional robotics that attempts to replace human decision-making, this framework treats the AI as a "Logical Fluid Layer" that bridges the gap between biological intent and mechanical execution.
+
+## Core Technical Concepts
+
+### 1. The Logical Fluid Damping (LFD)
+To solve the "Kinetic Impact Paradox" (e.g., the internal injury caused by external rigid armor), we propose LFD. 
+- **Mechanism:** AI monitors the pressure and movement signals from the user in real-time, providing an active buffer that absorbs kinetic energy while amplifying intentional force.
+- **Function:** It acts as a non-linear shock absorber that ensures the physical safety of the biological actor during high-intensity maneuvers.
+
+### 2. Recursive Agency (Nested Exoskeletons)
+We propose a hierarchical control model where a "Micro-Shell" (Logic Core) interfaces directly with the human user, which then interfaces with a "Macro-Shell" (Functional Hardware).
+- **Sovereignty Lock:** The Micro-Shell is a private, low-latency logic node that ensures all mechanical actions are rooted in the user's specific biological signature.
+- **Scalability:** This allows a single operator to control diverse platforms (construction, deep sea, space) while maintaining a consistent "muscle memory" interface.
+
+### 3. Intent-Resonance Sync
+Instead of "obeying" commands, the AI learns the user’s biological habits and provides a slight, informative "resistance" during operation. 
+- **The "Feel":** This resistance serves as a high-speed communication channel, creating a sense of "oneness" where the machine becomes an extension of the body's proprietary logic.
+
+## Current Status
+This project is moving from theoretical modeling to conceptual workflow design. We are defining the data structures for "Biological Intent Mapping."
+
+> *"We do not build robots to mimic humans; we build logic layers to help humans transcend physics."*
