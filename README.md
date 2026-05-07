@@ -23,3 +23,9 @@ This project investigates the symbiotic modeling of human decision-making logic 
 
 
 > Local laboratory heartbeat detected. [2026-05-07]
+---
+## 🛡️ Persistence Layer (IPFS)
+This laboratory's core logic is backed up on the InterPlanetary File System (IPFS) for decentralized permanence.
+
+- **Root CID (v1):** `bafybeign2h7hr5pams3cp3w22b7553ks2r25kwirb2rsyd3gghxisnnuru`
+- **Universal Access:** [View via IPFS Gateway](https://gateway.pinata.cloud/ipfs/bafybeign2h7hr5pams3cp3w22b7553ks2r25kwirb2rsyd3gghxisnnuru)
